@@ -1,5 +1,5 @@
 {
-	"name": "Raplos/Phalcon-Behavior-Jsonable",
+	"name": "raplos/phalcon-behavior-jsonable",
 	"description": "jsonable Behavior for Phalcon's Models",
 	"keywords": ["phalcon", "behavior", "json"],
 	"homepage": "https://github.com/raplos/phalcon-behavior-jsonable",
