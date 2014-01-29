@@ -1,0 +1,9 @@
+{
+	"name": "Raplos/Phalcon-Behavior-Jsonable",
+	"description": "jsonable Behavior for Phalcon's Models",
+	"keywords": ["phalcon", "behavior", "json"],
+	"homepage": "https://github.com/raplos/phalcon-behavior-jsonable",
+	"require": {
+		"php": ">=5.4.0"
+	}
+}
