@@ -5,5 +5,10 @@
 	"homepage": "https://github.com/raplos/phalcon-behavior-jsonable",
 	"require": {
 		"php": ">=5.4.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Raplos\\Jsonable\\": "src/"
+		}
 	}
 }
